@@ -2,7 +2,7 @@
   "name": "hooks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://serhiiso.github.io/hooks-special/",
+  "homepage": "https://serhiiso.github.io/Hooks-special/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
